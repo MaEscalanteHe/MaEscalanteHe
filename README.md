@@ -1,24 +1,21 @@
-<!-- prettier-ignore-start -->
-<h2 align="center" style="font-family: 'Ubuntu Mono', monospace;">Hello Friend...</h2>
+<h2 align="center" style="font-family: monospace;">hello friend...</h2>
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-@MaEscalanteHe-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/MaEscalanteHe)
-[![Telegram](https://img.shields.io/badge/Telegram-@MaEscalanteHe-0088cc?style=flat-square&logo=telegram)](https://github.com/yagop/node-telegram-bot-api)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://linkedin.com/in/maescalantehe)
+[![](https://img.shields.io/badge/mescalante.dev-000000?style=for-the-badge&logoColor=white)](https://mescalante.dev/)
 
 </div>
 
-I'm Mathematics student, enthusiastic Developer and sometimes DevOps | Living in Caracas, Venezuela.
+I'm a passionate self-taught developer and SRE/DevOps professional based in Caracas, Venezuela.
 
-Now I'm learning and testing many technologies to become a better developer (And maybe in the future in a DevOps/SRE). :robot:
+I continuously explore and experiment with new technologies to sharpen my skills and push the boundaries of what's possible.
 
--   🔭 I’m currently working as an **Android Developer with Kotlin**
--   🌱 I’m currently learning: **Android Studio, Kotlin, NLP**
--   :busts_in_silhouette: I’m looking to collaborate on **lowering barriers for open source contributors**
--   🤔 I’m member and sysadmin of **MAC/LDAC** agrupation :space_invader: _(Laboratorio docente de aulas computarizadas)_ in the _U.S.B._
--   💬 Ask me about: **Gnu/Linux, NodeJs, Dialogflow**
--   📫 How to reach me: **maescalantehe@gmail.com** :mailbox_with_mail:
--   ⚡ Fun fact: **my friends call me Skala** _(like Scala language_ :chart_with_upwards_trend:_)_
+- 🔭 I'm currently working as a **Backend Developer** and **SRE/DevOps** at **Acidtango [🍋](https://acidtango.com/)**
+- 🌱 I’m currently learning: **Cybersecurity** 🟦
+- 👥 I'm looking to collaborate on **lowering barriers for open source contributors**
+- 🏫 Former member and sysadmin of **MAC/LDAC** student organization 👾 _(Laboratorio docente de aulas computarizadas)_ in the **U.S.B** _(Universidad Simón Bolívar)_
+- 💬 Ask me about: **GNU/Linux**, **AWS**, **Docker** and **Node.js**
+- ⚡ Fun fact, my friends call me **Skala** _(a playful nod to the Scala language)_
 
 _ME_
-<!-- prettier-ignore-end -->
